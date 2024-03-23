@@ -1,4 +1,4 @@
-# Goalkeeper-Robot-Ball-Position-Estimation
+# Ball-Position-Estimation-in-Goalkeeper-Robot
 
 ### Introduction
 This project presents a solution for accurately estimating the position of a ball in flight relative to a goalkeeper robot. By leveraging an Intel RealSense Depth Camera D455 and employing advanced computer vision techniques, this endeavor offers precise real-time calculations crucial for effective robotic goalkeeping.
